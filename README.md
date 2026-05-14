@@ -24,7 +24,6 @@ A real-time, voice-to-voice interaction system powered by **Gemini AI** and **We
 
 <img width="2560" height="1276" alt="image" src="https://github.com/user-attachments/assets/46723873-8eee-4e44-88cf-3ee48c620637" />
 
-<img width="2538" height="1173" alt="image" src="https://github.com/user-attachments/assets/e4940550-d13a-44d9-9c06-ef393e472012" />
 
 
 ## 🛠️ Current Status: Optimization Phase
