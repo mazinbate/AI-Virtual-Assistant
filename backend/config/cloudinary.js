@@ -36,7 +36,7 @@ const uploadOnCloudinary = async (filePath) => {
     return uploadResult.secure_url
   } catch (error) {
     // ✅ FIX: old code had "return res.status(500)" here — res doesn't exist in this file!
-    // Just delete the temp file and throw the error so the controller can handle it
+  
     try { fs.unlinkSync(filePath) } catch (_) {}
     console.log("Cloudinary upload error:", error)
     throw new Error("Cloudinary upload failed: " + error.message)
