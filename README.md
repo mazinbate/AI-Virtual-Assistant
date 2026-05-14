@@ -1,4 +1,4 @@
-<img width="2538" height="1173" alt="image" src="https://github.com/user-attachments/assets/45216dfc-a7c8-4ea5-97e0-26899d7fb65b" />this is  ai virtual assistant
+this is  ai virtual voice assistant
 # AI Virtual Voice Assistant 🎙️
 
 A real-time, voice-to-voice interaction system powered by **Gemini AI** and **Web Speech API**. This project focuses on hands-free AI communication.
@@ -10,6 +10,7 @@ A real-time, voice-to-voice interaction system powered by **Gemini AI** and **We
 * **Secure Storage:** User preferences saved via JWT and MongoDB.
 
 ## 📸 Screenshots
+<img width="2558" height="1313" alt="image" src="https://github.com/user-attachments/assets/dd788cf6-0426-4fbb-8c25-86588081830d" />
 
 
 <img width="2560" height="1328" alt="image" src="https://github.com/user-attachments/assets/b68ea64c-ca4c-4c9e-ac81-0d1d5a5b47c2" />
