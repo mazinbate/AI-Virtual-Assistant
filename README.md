@@ -10,7 +10,7 @@ A real-time, voice-to-voice interaction system powered by **Gemini AI** and **We
 * **Secure Storage:** User preferences saved via JWT and MongoDB.
 
 ## 📸 Screenshots
-<img width="2538" height="1173" alt="image" src="https://github.com/user-attachments/assets/e4940550-d13a-44d9-9c06-ef393e472012" />
+
 
 <img width="2560" height="1328" alt="image" src="https://github.com/user-attachments/assets/b68ea64c-ca4c-4c9e-ac81-0d1d5a5b47c2" />
 
@@ -23,6 +23,9 @@ A real-time, voice-to-voice interaction system powered by **Gemini AI** and **We
 <img width="2533" height="1218" alt="image" src="https://github.com/user-attachments/assets/bf2141ca-3ef2-4fd4-8b3c-5d308524d6c7" />
 
 <img width="2560" height="1276" alt="image" src="https://github.com/user-attachments/assets/46723873-8eee-4e44-88cf-3ee48c620637" />
+
+<img width="2508" height="1325" alt="image" src="https://github.com/user-attachments/assets/d6952776-834a-4751-bff5-62d07a5ced26" />
+
 
 
 
